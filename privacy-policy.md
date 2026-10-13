@@ -6,11 +6,11 @@ title: Deen – Privacy policy
 
 ## English
 
-*Last updated: 11 October 2026*
+*Last updated: 13 October 2026*
 
 Deen – Namaz & Roza Calendar (“Deen”) is made to keep your worship private. This page explains, in plain words, what the app uses and where it goes.
 
-- **No account, no sign-in. There is one ad, a banner on Home, shown only while you’re online.**
+- **No account needed. Google sign-in is used only if you turn on Drive backup. There is one ad, a banner on Home, shown only while you’re online.**
 - **Deen itself has no analytics or tracking and collects nothing about you. The ad service (Google AdMob) does; see Ads.**
 - **Everything you save stays on this phone. Deen has no server of its own.**
 
@@ -37,6 +37,7 @@ Some features need the internet. Only then does the phone contact these free pub
 - **[Google Drive (if you connect it)](https://policies.google.com/privacy)** — Automatic backup and restore. Receives: Your saved data (tracker, roza, khatam, settings, bookmarks) as one file in Deen’s private app folder, and your Google account email for sign-in.
 - **[Google AdMob](https://policies.google.com/technologies/ads)** — Ads, only while online. Receives: Advertising ID, device and app details, approximate location from your IP address, which ads you saw or tapped; your consent choice where it applies.
 - **[Expo (EAS Update)](https://expo.dev/privacy)** — App updates. Receives: When the app opens: the app version, platform and a random install ID made by the update system, to download fixes without a store update.
+- **[Google Play](https://policies.google.com/privacy)** — App updates from the store (Android). Receives: When the app opens while online: a check with Google Play, through the Play Store app on your phone, for a newer version of Deen.
 - **[Apple Maps / Google Maps](https://policies.google.com/privacy)** — Directions to a mosque. Receives: The mosque’s location, only when you tap Directions.
 
 ### Ads
@@ -51,7 +52,7 @@ Gambling, alcohol, dating and other unsuitable ad categories are blocked, and on
 
 ### Notifications
 
-Adhan, forbidden-time, sehri, Jumu’ah, daily-ayah and Quran khatam reminders are scheduled on the phone itself. No push server is involved, so they work without internet. They are ordinary notifications with your phone’s own sound; no adhan recording is played.
+Prayer-time, forbidden-time, sehri, Jumu’ah, daily-ayah and Quran khatam reminders are scheduled on the phone itself. No push server is involved, so they work without internet. They are ordinary notifications with your phone’s own sound; no adhan recording is played.
 
 ### Backups
 
@@ -73,7 +74,7 @@ On Android, the phone’s own backup (if turned on) also saves Deen’s data to 
 
 ### Children
 
-Deen is suitable for all ages. Deen itself collects no personal information from anyone, including children. Ads are limited to content suitable for general audiences.
+Deen is meant for people aged 13 and over. Deen itself collects no personal information from anyone, including children. Ads are limited to content suitable for general audiences.
 
 ### Changes
 
@@ -89,11 +90,11 @@ Questions about privacy? Write to us and we’ll reply.
 
 ## বাংলা
 
-*সর্বশেষ হালনাগাদ: ১১ অক্টোবর ২০২৬*
+*সর্বশেষ হালনাগাদ: ১৩ অক্টোবর ২০২৬*
 
 দ্বীন – নামাজ ও রোজার ক্যালেন্ডার (“দ্বীন”) বানানো হয়েছে আপনার ইবাদতকে ব্যক্তিগত রাখতে। অ্যাপটি কী ব্যবহার করে আর তা কোথায় যায়, এই পাতায় সহজ ভাষায় বলা হলো।
 
-- **কোনো অ্যাকাউন্ট বা সাইন-ইন নেই। বিজ্ঞাপন শুধু একটি, হোমে একটি ব্যানার, আর তা আসে শুধু অনলাইনে থাকলে।**
+- **কোনো অ্যাকাউন্ট লাগে না। গুগল সাইন-ইন শুধু ড্রাইভ ব্যাকআপ চালু করলে। বিজ্ঞাপন শুধু একটি, হোমে একটি ব্যানার, আর তা আসে শুধু অনলাইনে থাকলে।**
 - **দ্বীন নিজে কোনো অ্যানালিটিক্স বা ট্র্যাকিং করে না, আপনার সম্পর্কে কিছুই সংগ্রহ করে না। বিজ্ঞাপন সার্ভিস (Google AdMob) করে; “বিজ্ঞাপন” অংশ দেখুন।**
 - **আপনি যা সেভ করেন সব এই ফোনেই থাকে। দ্বীন-এর নিজের কোনো সার্ভার নেই।**
 
@@ -120,6 +121,7 @@ Questions about privacy? Write to us and we’ll reply.
 - **[Google Drive (যুক্ত করলে)](https://policies.google.com/privacy)** — স্বয়ংক্রিয় ব্যাকআপ ও ফেরত আনা. যা পায়: আপনার সেভ করা তথ্য (ট্র্যাকার, রোজা, খতম, সেটিংস, বুকমার্ক) দ্বীন-এর গোপন অ্যাপ ফোল্ডারে একটি ফাইল হিসেবে, আর সাইন-ইনের জন্য আপনার গুগল ইমেইল.
 - **[Google AdMob](https://policies.google.com/technologies/ads)** — বিজ্ঞাপন, শুধু অনলাইনে. যা পায়: বিজ্ঞাপন আইডি, ডিভাইস ও অ্যাপের তথ্য, IP ঠিকানা থেকে আনুমানিক অবস্থান, কোন বিজ্ঞাপন দেখেছেন বা চেপেছেন; প্রযোজ্য হলে আপনার সম্মতির পছন্দ.
 - **[Expo (EAS Update)](https://expo.dev/privacy)** — অ্যাপ আপডেট. যা পায়: অ্যাপ খুললে: অ্যাপের ভার্সন, প্ল্যাটফর্ম ও আপডেট সিস্টেমের তৈরি একটি র‍্যান্ডম ইনস্টল আইডি, যাতে স্টোর আপডেট ছাড়াই সংশোধন নামানো যায়.
+- **[Google Play](https://policies.google.com/privacy)** — স্টোর থেকে অ্যাপ আপডেট (Android). যা পায়: অনলাইনে অ্যাপ খুললে: ফোনের Play Store অ্যাপের মাধ্যমে Google Play-তে দ্বীন-এর নতুন ভার্সন আছে কিনা যাচাই.
 - **[Apple Maps / Google Maps](https://policies.google.com/privacy)** — মসজিদে যাওয়ার পথ. যা পায়: মসজিদের অবস্থান, শুধু আপনি দিক-নির্দেশে চাপ দিলে.
 
 ### বিজ্ঞাপন
@@ -134,7 +136,7 @@ Questions about privacy? Write to us and we’ll reply.
 
 ### নোটিফিকেশন
 
-আজান, নিষিদ্ধ সময়, সেহরি, জুমা, আজকের আয়াত আর কুরআন খতমের রিমাইন্ডার ফোনেই সেট করা হয়। কোনো পুশ সার্ভার লাগে না, তাই ইন্টারনেট ছাড়াও আসে। এগুলো ফোনের নিজের শব্দসহ সাধারণ নোটিফিকেশন; কোনো আজানের রেকর্ডিং বাজে না।
+নামাজের সময়, নিষিদ্ধ সময়, সেহরি, জুমা, আজকের আয়াত আর কুরআন খতমের রিমাইন্ডার ফোনেই সেট করা হয়। কোনো পুশ সার্ভার লাগে না, তাই ইন্টারনেট ছাড়াও আসে। এগুলো ফোনের নিজের শব্দসহ সাধারণ নোটিফিকেশন; কোনো আজানের রেকর্ডিং বাজে না।
 
 ### ব্যাকআপ
 
@@ -156,7 +158,7 @@ Android-এ ফোনের নিজস্ব ব্যাকআপ (চাল�
 
 ### শিশু
 
-দ্বীন সব বয়সের জন্য উপযোগী। শিশুসহ কারো কাছ থেকেই দ্বীন নিজে কোনো ব্যক্তিগত তথ্য সংগ্রহ করে না। বিজ্ঞাপন শুধু সব বয়সের উপযোগী কন্টেন্টের মধ্যে সীমিত।
+দ্বীন ১৩ বছর ও তার বেশি বয়সীদের জন্য। শিশুসহ কারো কাছ থেকেই দ্বীন নিজে কোনো ব্যক্তিগত তথ্য সংগ্রহ করে না। বিজ্ঞাপন শুধু সব বয়সের উপযোগী কন্টেন্টের মধ্যে সীমিত।
 
 ### পরিবর্তন
 
