@@ -6,7 +6,7 @@ title: Deen – Privacy policy
 
 ## English
 
-*Last updated: 13 October 2026*
+*Last updated: 17 October 2026*
 
 Deen – Namaz & Roza Calendar (“Deen”) is made to keep your worship private. This page explains, in plain words, what the app uses and where it goes.
 
@@ -84,13 +84,13 @@ If this policy changes, this page and its date will be updated in the app.
 
 Questions about privacy? Write to us and we’ll reply.
 
-[mdmarufhasanallhaddy@gmail.com](mailto:mdmarufhasanallhaddy@gmail.com)
+[support@amwooglobal.com](mailto:support@amwooglobal.com)
 
 ---
 
 ## বাংলা
 
-*সর্বশেষ হালনাগাদ: ১৩ অক্টোবর ২০২৬*
+*সর্বশেষ হালনাগাদ: ১৭ অক্টোবর ২০২৬*
 
 দ্বীন – নামাজ ও রোজার ক্যালেন্ডার (“দ্বীন”) বানানো হয়েছে আপনার ইবাদতকে ব্যক্তিগত রাখতে। অ্যাপটি কী ব্যবহার করে আর তা কোথায় যায়, এই পাতায় সহজ ভাষায় বলা হলো।
 
@@ -168,4 +168,4 @@ Android-এ ফোনের নিজস্ব ব্যাকআপ (চাল�
 
 প্রাইভেসি নিয়ে প্রশ্ন আছে? আমাদের লিখুন, আমরা উত্তর দেব।
 
-[mdmarufhasanallhaddy@gmail.com](mailto:mdmarufhasanallhaddy@gmail.com)
+[support@amwooglobal.com](mailto:support@amwooglobal.com)
