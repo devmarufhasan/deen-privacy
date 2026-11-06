@@ -2,15 +2,15 @@
 title: Deen – Privacy policy
 ---
 
-# Deen – Namaz & Roza Calendar · Privacy policy
+# Deen – Namaz, Roza & Quran · Privacy policy
 
 ## English
 
-*Last updated: 17 October 2026*
+*Last updated: 6 November 2026*
 
-Deen – Namaz & Roza Calendar (“Deen”) is made to keep your worship private. This page explains, in plain words, what the app uses and where it goes.
+Deen – Namaz, Roza & Quran (“Deen”) is made to keep your worship private. This page explains, in plain words, what the app uses and where it goes.
 
-- **No account needed. Google sign-in is used only if you turn on Drive backup. There is one ad, a banner on Home, shown only while you’re online.**
+- **No account needed. Google sign-in is used only if you turn on Drive backup. Ads appear only on Home (a banner and one ad card), and only while you’re online.**
 - **Deen itself has no analytics or tracking and collects nothing about you. The ad service (Google AdMob) does; see Ads.**
 - **Everything you save stays on this phone. Deen has no server of its own.**
 
@@ -22,7 +22,7 @@ We never receive them. Uninstalling the app deletes them.
 
 ### Location
 
-With your permission, Deen uses your location to work out prayer times, sehri and iftar, the Qibla direction, the weather and nearby mosques. You can pick a city by hand instead.
+With your permission, Deen uses your location to work out prayer times, sehri and iftar, the Qibla direction and the weather. You can pick a city by hand instead.
 
 The calculations happen on the phone. To show your city’s name, the phone’s own map service (Apple on iPhone, Google on Android) is asked once.
 
@@ -31,18 +31,15 @@ The calculations happen on the phone. To show your city’s name, the phone’s 
 Some features need the internet. Only then does the phone contact these free public services directly. They receive the request below and, like any website, your IP address. Apart from ads, no name, phone number or advertising ID is sent.
 
 - **[Open-Meteo](https://open-meteo.com/en/terms)** — Weather and city search. Receives: Approximate location (about 100 m) for weather; the text you type when searching for a city.
-- **[OpenStreetMap (Overpass)](https://wiki.osmfoundation.org/wiki/Privacy_Policy)** — Nearby mosques. Receives: Your location, to find mosques around it (overpass-api.de, or its maps.mail.ru mirror when busy).
-- **[OpenFreeMap](https://openfreemap.org)** — Mosque map. Receives: The map area you are looking at.
 - **[Islamic Network](https://alquran.cloud)** — Quran recitation audio. Receives: Which ayah to play.
 - **[Google Drive (if you connect it)](https://policies.google.com/privacy)** — Automatic backup and restore. Receives: Your saved data (tracker, roza, khatam, settings, bookmarks) as one file in Deen’s private app folder, and your Google account email for sign-in.
 - **[Google AdMob](https://policies.google.com/technologies/ads)** — Ads, only while online. Receives: Advertising ID, device and app details, approximate location from your IP address, which ads you saw or tapped; your consent choice where it applies.
 - **[Expo (EAS Update)](https://expo.dev/privacy)** — App updates. Receives: When the app opens: the app version, platform and a random install ID made by the update system, to download fixes without a store update.
 - **[Google Play](https://policies.google.com/privacy)** — App updates from the store (Android). Receives: When the app opens while online: a check with Google Play, through the Play Store app on your phone, for a newer version of Deen.
-- **[Apple Maps / Google Maps](https://policies.google.com/privacy)** — Directions to a mosque. Receives: The mosque’s location, only when you tap Directions.
 
 ### Ads
 
-Ads keep Deen free. They come from Google AdMob: one banner on the Home screen, nowhere else. It loads only while the phone is online; offline, everything works and no ad is requested.
+Ads keep Deen free. They come from Google AdMob: a banner and one ad card (an image, or a muted video on Wi-Fi) on the Home screen, nowhere else. It loads only while the phone is online; offline, everything works and no ad is requested.
 
 To show an ad, Google receives your phone’s advertising ID, device and app details, an approximate location worked out from your IP address, and whether you saw or tapped an ad. Deen never sees or keeps any of it.
 
@@ -52,7 +49,7 @@ Gambling, alcohol, dating and other unsuitable ad categories are blocked, and on
 
 ### Notifications
 
-Prayer-time, forbidden-time, sehri, Jumu’ah, daily-ayah and Quran khatam reminders are scheduled on the phone itself. No push server is involved, so they work without internet. They are ordinary notifications with your phone’s own sound; no adhan recording is played.
+Prayer-time, forbidden-time, sehri, Jumu’ah, daily-ayah and Quran khatam reminders are scheduled on the phone itself. No push server is involved, so they work without internet. They play your phone’s own sound, or, for prayers you set to Adhan, an adhan recording that comes with the app, in the voice you pick.
 
 ### Backups
 
@@ -62,7 +59,7 @@ On Android, the phone’s own backup (if turned on) also saves Deen’s data to 
 
 ### Permissions
 
-- Location: prayer times, Qibla, weather and nearby mosques.
+- Location: prayer times, Qibla and weather.
 
 - Notifications, and on Android “Alarms & reminders”: so prayer times and reminders arrive on the minute.
 
@@ -90,11 +87,11 @@ Questions about privacy? Write to us and we’ll reply.
 
 ## বাংলা
 
-*সর্বশেষ হালনাগাদ: ১৭ অক্টোবর ২০২৬*
+*সর্বশেষ হালনাগাদ: ৬ নভেম্বর ২০২৬*
 
-দ্বীন – নামাজ ও রোজার ক্যালেন্ডার (“দ্বীন”) বানানো হয়েছে আপনার ইবাদতকে ব্যক্তিগত রাখতে। অ্যাপটি কী ব্যবহার করে আর তা কোথায় যায়, এই পাতায় সহজ ভাষায় বলা হলো।
+দ্বীন – নামাজ, রোজা ও কুরআন (“দ্বীন”) বানানো হয়েছে আপনার ইবাদতকে ব্যক্তিগত রাখতে। অ্যাপটি কী ব্যবহার করে আর তা কোথায় যায়, এই পাতায় সহজ ভাষায় বলা হলো।
 
-- **কোনো অ্যাকাউন্ট লাগে না। গুগল সাইন-ইন শুধু ড্রাইভ ব্যাকআপ চালু করলে। বিজ্ঞাপন শুধু একটি, হোমে একটি ব্যানার, আর তা আসে শুধু অনলাইনে থাকলে।**
+- **কোনো অ্যাকাউন্ট লাগে না। গুগল সাইন-ইন শুধু ড্রাইভ ব্যাকআপ চালু করলে। বিজ্ঞাপন শুধু হোমে (একটি ব্যানার ও একটি বিজ্ঞাপন কার্ড), আর তা আসে শুধু অনলাইনে থাকলে।**
 - **দ্বীন নিজে কোনো অ্যানালিটিক্স বা ট্র্যাকিং করে না, আপনার সম্পর্কে কিছুই সংগ্রহ করে না। বিজ্ঞাপন সার্ভিস (Google AdMob) করে; “বিজ্ঞাপন” অংশ দেখুন।**
 - **আপনি যা সেভ করেন সব এই ফোনেই থাকে। দ্বীন-এর নিজের কোনো সার্ভার নেই।**
 
@@ -106,7 +103,7 @@ Questions about privacy? Write to us and we’ll reply.
 
 ### অবস্থান
 
-আপনার অনুমতি নিয়ে দ্বীন অবস্থান ব্যবহার করে নামাজের সময়, সেহরি-ইফতার, কিবলার দিক, আবহাওয়া আর কাছের মসজিদ বের করতে। চাইলে হাতে শহর বেছে নিতে পারেন।
+আপনার অনুমতি নিয়ে দ্বীন অবস্থান ব্যবহার করে নামাজের সময়, সেহরি-ইফতার, কিবলার দিক আর আবহাওয়া বের করতে। চাইলে হাতে শহর বেছে নিতে পারেন।
 
 হিসাব ফোনেই হয়। আপনার শহরের নাম দেখাতে ফোনের নিজস্ব ম্যাপ সার্ভিসকে (iPhone-এ Apple, Android-এ Google) একবার জিজ্ঞেস করা হয়।
 
@@ -115,18 +112,15 @@ Questions about privacy? Write to us and we’ll reply.
 কিছু ফিচারে ইন্টারনেট লাগে। শুধু তখনই ফোন সরাসরি এই ফ্রি পাবলিক সার্ভিসগুলোর সাথে যোগাযোগ করে। তারা নিচের তথ্যটুকু পায়, আর যেকোনো ওয়েবসাইটের মতো আপনার IP ঠিকানা। বিজ্ঞাপন ছাড়া আর কোথাও নাম, ফোন নম্বর বা বিজ্ঞাপন আইডি পাঠানো হয় না।
 
 - **[Open-Meteo](https://open-meteo.com/en/terms)** — আবহাওয়া ও শহর খোঁজা. যা পায়: আবহাওয়ার জন্য আনুমানিক অবস্থান (প্রায় ১০০ মিটার); শহর খুঁজতে আপনি যা লেখেন.
-- **[OpenStreetMap (Overpass)](https://wiki.osmfoundation.org/wiki/Privacy_Policy)** — কাছের মসজিদ. যা পায়: আশপাশের মসজিদ খুঁজতে আপনার অবস্থান (overpass-api.de, ব্যস্ত থাকলে maps.mail.ru মিরর).
-- **[OpenFreeMap](https://openfreemap.org)** — মসজিদের ম্যাপ. যা পায়: ম্যাপের যে এলাকা আপনি দেখছেন.
 - **[Islamic Network](https://alquran.cloud)** — কুরআন তিলাওয়াতের অডিও. যা পায়: কোন আয়াত বাজাতে হবে.
 - **[Google Drive (যুক্ত করলে)](https://policies.google.com/privacy)** — স্বয়ংক্রিয় ব্যাকআপ ও ফেরত আনা. যা পায়: আপনার সেভ করা তথ্য (ট্র্যাকার, রোজা, খতম, সেটিংস, বুকমার্ক) দ্বীন-এর গোপন অ্যাপ ফোল্ডারে একটি ফাইল হিসেবে, আর সাইন-ইনের জন্য আপনার গুগল ইমেইল.
 - **[Google AdMob](https://policies.google.com/technologies/ads)** — বিজ্ঞাপন, শুধু অনলাইনে. যা পায়: বিজ্ঞাপন আইডি, ডিভাইস ও অ্যাপের তথ্য, IP ঠিকানা থেকে আনুমানিক অবস্থান, কোন বিজ্ঞাপন দেখেছেন বা চেপেছেন; প্রযোজ্য হলে আপনার সম্মতির পছন্দ.
 - **[Expo (EAS Update)](https://expo.dev/privacy)** — অ্যাপ আপডেট. যা পায়: অ্যাপ খুললে: অ্যাপের ভার্সন, প্ল্যাটফর্ম ও আপডেট সিস্টেমের তৈরি একটি র‍্যান্ডম ইনস্টল আইডি, যাতে স্টোর আপডেট ছাড়াই সংশোধন নামানো যায়.
 - **[Google Play](https://policies.google.com/privacy)** — স্টোর থেকে অ্যাপ আপডেট (Android). যা পায়: অনলাইনে অ্যাপ খুললে: ফোনের Play Store অ্যাপের মাধ্যমে Google Play-তে দ্বীন-এর নতুন ভার্সন আছে কিনা যাচাই.
-- **[Apple Maps / Google Maps](https://policies.google.com/privacy)** — মসজিদে যাওয়ার পথ. যা পায়: মসজিদের অবস্থান, শুধু আপনি দিক-নির্দেশে চাপ দিলে.
 
 ### বিজ্ঞাপন
 
-বিজ্ঞাপনের কারণে দ্বীন ফ্রি থাকে। বিজ্ঞাপন আসে Google AdMob থেকে: হোম স্ক্রিনে একটি ব্যানার, আর কোথাও নয়। এটি শুধু ফোন অনলাইনে থাকলে লোড হয়; অফলাইনে সব চলে, কোনো বিজ্ঞাপন চাওয়া হয় না।
+বিজ্ঞাপনের কারণে দ্বীন ফ্রি থাকে। বিজ্ঞাপন আসে Google AdMob থেকে: হোম স্ক্রিনে একটি ব্যানার ও একটি বিজ্ঞাপন কার্ড (ছবি, বা Wi-Fi-তে শব্দ ছাড়া ভিডিও), আর কোথাও নয়। এটি শুধু ফোন অনলাইনে থাকলে লোড হয়; অফলাইনে সব চলে, কোনো বিজ্ঞাপন চাওয়া হয় না।
 
 বিজ্ঞাপন দেখাতে Google পায় আপনার ফোনের বিজ্ঞাপন আইডি, ডিভাইস ও অ্যাপের তথ্য, IP ঠিকানা থেকে আনুমানিক অবস্থান, আর আপনি কোন বিজ্ঞাপন দেখেছেন বা চেপেছেন। দ্বীন এর কিছুই দেখে বা রাখে না।
 
@@ -136,7 +130,7 @@ Questions about privacy? Write to us and we’ll reply.
 
 ### নোটিফিকেশন
 
-নামাজের সময়, নিষিদ্ধ সময়, সেহরি, জুমা, আজকের আয়াত আর কুরআন খতমের রিমাইন্ডার ফোনেই সেট করা হয়। কোনো পুশ সার্ভার লাগে না, তাই ইন্টারনেট ছাড়াও আসে। এগুলো ফোনের নিজের শব্দসহ সাধারণ নোটিফিকেশন; কোনো আজানের রেকর্ডিং বাজে না।
+নামাজের সময়, নিষিদ্ধ সময়, সেহরি, জুমা, আজকের আয়াত আর কুরআন খতমের রিমাইন্ডার ফোনেই সেট করা হয়। কোনো পুশ সার্ভার লাগে না, তাই ইন্টারনেট ছাড়াও আসে। এগুলোতে ফোনের নিজের শব্দ বাজে, আর যে নামাজে আজান বেছে নেন, সেখানে অ্যাপের সাথে থাকা আজানের রেকর্ডিং, আপনার বেছে নেওয়া কণ্ঠে।
 
 ### ব্যাকআপ
 
@@ -146,7 +140,7 @@ Android-এ ফোনের নিজস্ব ব্যাকআপ (চাল�
 
 ### অনুমতি
 
-- অবস্থান: নামাজের সময়, কিবলা, আবহাওয়া আর কাছের মসজিদ।
+- অবস্থান: নামাজের সময়, কিবলা আর আবহাওয়া।
 
 - নোটিফিকেশন, আর Android-এ “Alarms & reminders”: যাতে নামাজের সময় ও রিমাইন্ডার ঠিক মিনিটে আসে।
 
